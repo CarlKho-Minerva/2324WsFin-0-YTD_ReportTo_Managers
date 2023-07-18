@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ytd-report-sy2324",
+  "private_key_id": "5986472ba88e5bc6d036b3c3af76e8dfc09b7222",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCv9Y+UWHh+4m9o\nQokCHEB1e1ENkUgzbq9v6HeZ5B103VGAxIKgnt8nuqIkM6xW1Ap/Ob2JrAYg8vDU\nY1SJA92/mRguKXzv+4scdzBNTPOCQYoo4LvE9k2GdtcY5gizthtajSru5D/Sn77O\n4ecMxaCjcdEngS2FGuS2PmBJnEjMjNBxIyQrUTH8ugahT+lsEuX3uJKPTBynx3bv\nHC69v6/VEksr5C1KWGSQ48QIdbsuiNOyOvmHjxZccXU6RBrf19cIXrqZY4tOF0ri\nbPi3Rv+P26FE3aR12GJqmvW6tM7/b9Q/KGi/RbEkMDXe3lCJy2CncWGhOwbEogcB\nVeRlJi33AgMBAAECggEAAQ7O4Ctv/gNKfCv6OuMEmDA3modHEdgWgeu53Fj8vFkg\nRk/oISMTYF/E3cbZwGPh9EXal9tK5iPPwtceCPzW9nHrLUvejmrKuU8WIUDXLe9K\n71f6iQKaELbiMCoh30K3A2JZ4bnJkHCZaxD8nJ0LjDAA++XQ6j3xJg9V8NtZrLEh\nc8aAAsY1hHlQ3oT6t2s4Y81EZh1hytDiydWct0TNh0zJtiiVaYAlE+Uu+W4WKmWc\nm5QyYhBJI3warNaOWD80J0Y2IaVtReIYvnrDjRLcV35bMOkKikzt5wlStNqNtZiJ\nPsf/7Ygpo8Ozf7iAAcZkRNDb4wwI0nWAZ1fdZq3lkQKBgQD0oK3J0s3QnkiEA1vZ\nEgRZBpREbJ7P5aE8B4l58Sa0ZJ+yz6dy2NQGYT9/YT+Ko1/Fuxgh4CTRZeoSAxwi\nuk81RrEGLkim1U8esD92WgF4vXT9zY4IefGCzYYjG4LB1J4rEGs7zjwF4JqfZ5Ny\nnEQkUJ3D0bz9aHfthTfpFwgfhQKBgQC4I6gsCRnukeGxgXaCcsnNQKI5vsIm8co5\nIxblm4eSHRMTMnYvV9Cph9ZiJJK3YGv5swotQFIY7eyk4Jb1BqOpPjFW8ooNNFGC\n4zp7+PFwgBRTX8Trrkbnbs2EiZW/GcQelJcHj4RcCtW9046eEvRdV2Sz9oc30jU8\nBbBXNy7KSwKBgQC0/zXWwFx74MEyu/F3WLdSz2VggyW2GOcFLWZwjRbgHhtzB+WT\nOg8WcVmz+9Yx09OGz3l5hwh2znszvI1SvJrihl1wf0pN9kHGKQ2rmcjA9xzatP5E\nE0W4TCzVSQOkOpaUsl9FLsCGcLq2+sHD6Q8Z93PjcQnuTR9+5DSMB/iAqQKBgQCc\n19JQ39e0u5Fv7oQRDNETATCs2uzo2x6SmG7SWC2bqSQsP9km7jePj2Jt6hUGGR0f\nbP8IGDdVgKMGtT4fqu4QJCdGlgQ8xwl+4SlZm2ublZy6f2JuFN3UFy76624ffkTs\nf0g9amMlOx1gOSjLP/3g26WtHBmE1In/fCD9yMUUDQKBgFMKVPTWiMv+YMFNQMF0\n+aXIEgQfWSk/sqpK10AIxL0xcydGAlsmCLpf7qJo+9ccO8JJ63pnoe1/JT6NsLR4\ncEaXOY+Zr34noKNxJT0pX21Gc1zmAXC7Ql1r+BTe32EejsgfYl/j7+FkHBVWLz8j\nRPKms1ouA0Yb6M8d7n4iTJmE\n-----END PRIVATE KEY-----\n",
+  "client_email": "carl-autoupload@ytd-report-sy2324.iam.gserviceaccount.com",
+  "client_id": "116181429950805432766",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carl-autoupload%40ytd-report-sy2324.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
